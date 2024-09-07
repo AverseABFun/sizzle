@@ -25,12 +25,11 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-#*.xml # We do actually want the BOM
-#*.csv
+*.xml
+*.csv
 
 # Local settings and the such
 \#auto_saved_files\#
 
 # Lock files
 *.lck
-
